@@ -28,14 +28,12 @@ The victim's photo will be automatically saved in the folder /captured_files
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
 
-### Original Author 
+### Developer
 <a href="https://github.com/soha-waris/Hack-camera.git">Hack-camera Repository</a>
 
 
 ### <<< If you copy , Then Give me The Credits >>>
 
-### Develope
-Soha waris
 
 
 
