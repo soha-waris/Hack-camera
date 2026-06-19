@@ -1,5 +1,6 @@
 # Hack-camera
-![Hack-camera preview](Hack-camera.jpg)
+![Hack-camera preview](Hack-camera.jpg) <img width="1564" height="1006" alt="image" src="https://github.com/user-attachments/assets/18c09cb4-73f3-4a17-a372-d699ca870294" />
+
 
 ## introduction
 Hack-camera is a tool used to carry out attacks using social engineering, namely sending a trap link to trap the target and taking photos from the target device. This project demonstrates how camera permission based phishing simulations may work in controlled cybersecurity awareness environments.
